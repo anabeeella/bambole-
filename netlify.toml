@@ -1,0 +1,5 @@
+# Configuración de Netlify para bambole.com.ar
+[build]
+  publish = "."
+
+# No se requiere build command para sitio estático HTML/CSS
